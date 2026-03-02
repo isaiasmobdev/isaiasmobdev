@@ -1,6 +1,6 @@
 <h1 class="heading-element" dir="auto">Hello there! I'm Isaías</h1>
 
-<h3 class="heading-element" dir="auto">🌐 Habilidades:!</h3>
+<h3 class="heading-element" dir="auto">🌐 Skills!</h3>
 
 <ul>
   <li>Development in Swift for iOS.
